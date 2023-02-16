@@ -1,7 +1,7 @@
 /** 
  * ===========================================================
- * Name: 
- * Section: 
+ * Name: Benjamin Tat
+ * Section: T6
  * Project: Priority Queue ADT implemented using linked list
  * Purpose: Priority Queue ADT library - FIFO
  * ===========================================================
